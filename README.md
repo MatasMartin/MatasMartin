@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @MatasMartin.
-- ✨ Languages I know: C++.
+- 💪 I'm 17 years old!
 - 👀 I’m interested in all things programming.
+- ✨ Languages I know: C++.
 - 🌱 I’m currently learning HTML, CSS, and JavaScript.
 - 📫 You can reach me through LinkedIn or Email!
 - ⚡ Fun fact: The heart of a blue whale is so large that a human can swim through its arteries.
