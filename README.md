@@ -2,7 +2,7 @@
 - 💪 I'm 17 years old!
 - 👀 I’m interested in all things programming.
 - ✨ Languages I know: C++.
-- 🌱 I’m currently learning HTML, CSS, and JavaScript.
+- 🌱 I’m currently learning HTML, CSS, JavaScript, and Ruby.
 - 📫 You can reach me through email!
 - ⚡ Fun fact: The heart of a blue whale is so large that a human can swim through its arteries.
 
