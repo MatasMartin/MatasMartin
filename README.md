@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MatasMartin.
-- 💪 I'm 17 years old!
+- 💪 I'm 18 years old!
 - 👀 I’m interested in all things programming.
 - ✨ Languages I know: C++.
 - 🌱 I’m currently learning HTML, CSS, JavaScript, and Ruby.
